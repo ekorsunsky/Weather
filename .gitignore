@@ -1,0 +1,4 @@
+# Made by sign-on-mac.sh. It carries the signer's Apple certificate, so keep it local.
+shortcut/Weather Rundown.shortcut
+
+__pycache__/
